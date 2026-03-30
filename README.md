@@ -31,7 +31,8 @@
 - For return rate, Social Commerce(9.14%), Mobile App(7.30%), Website(7.04%), Marketplace(6.44%)
   
 ### 🍽️ Marketing ROI
-- By platform, Influencer is best performing, which delivers the ROAS 22.70:1; however, Email Marketing performs badly, which just delivers the ROAS 4.81:1. 
+- For ROAS, Influencer is best performing, which delivers the ROAS 22.70:1; however, Email Marketing performs badly, which just delivers the ROAS 4.81:1:
+- For cost, Influencer has lower cost per acquisition(3.39) and lower cost per click(0.17); however, Email Marketing has higher cost per acquisition(17.86) and higher cost per click(0.94)
 
 ## 💡 Recommendations
 - Reduce spend on low-ROAS platforms
